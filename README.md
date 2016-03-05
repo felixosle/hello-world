@@ -1,2 +1,3 @@
 # hello-world
-Just trying
+Just trying...
+Gotta learn GIT for a new job project
